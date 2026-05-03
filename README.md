@@ -19,8 +19,7 @@
 📍 Ranchi, Jharkhand, India<br><br>
 📊 Passionate about <b>Data Science, AI & Machine Learning</b><br><br>
 🧠 Skilled in <b>Python, Data Analysis, Problem Solving & DSA</b><br><br>
-🔍 Love solving <b>real-world problems using data</b><br><br>
-🚀 Preparing for <b>internships and placements</b><br><br>
+🔍 Love solving <b>real-world problems using data</b>
 📫 harshitamrnh@gmail.com
 </p>
 
