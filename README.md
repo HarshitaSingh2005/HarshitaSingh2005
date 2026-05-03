@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/HarshitaSingh2005/HarshitaSingh2005/main/Banner.png" width="100%" />
 </p>
-# Hi 👋, I'm Harshita Singh<h1 align="center">
 <h1 align="center">Hi 👋, I'm Harshita Singh</h1>
 <h3 align="center">📊 Aspiring Data Scientist | AI/ML Enthusiast</h3>
 
