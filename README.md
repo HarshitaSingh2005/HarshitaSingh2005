@@ -2,24 +2,28 @@
   <img src="https://raw.githubusercontent.com/HarshitaSingh2005/HarshitaSingh2005/main/Banner.png" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Harshita Singh</h1>
-<h3 align="center">📊 Aspiring Data Scientist | AI/ML Enthusiast</h3>
+<h3 align="center"> Aspiring Data Scientist | AI/ML Enthusiast</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Science+Learner;Machine+Learning+Enthusiast;Python+Developer;DSA+Practitioner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist;AI+%2F+ML+Enthusiast;Python+Developer;DSA+Practitioner" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 B.Tech CSE Student (2023–2027)
-- 📊 Passionate about **Data Science & Machine Learning**
-- 🧠 Skilled in **Data Analysis, Problem Solving & DSA**
-- 🔍 Interested in solving **real-world problems using data**
-- 🚀 Currently preparing for **internships & placements**
+<h2 align="center">👩‍💻 About Me</h2>
 
----
+<p align="center">
+🎓 <b>B.Tech CSE Student (2023–2027), KIIT University</b><br><br>
+📍 Ranchi, Jharkhand, India<br><br>
+📊 Passionate about <b>Data Science, AI & Machine Learning</b><br><br>
+🧠 Skilled in <b>Python, Data Analysis, Problem Solving & DSA</b><br><br>
+🔍 Love solving <b>real-world problems using data</b><br><br>
+🚀 Preparing for <b>internships and placements</b><br><br>
+📫 harshitamrnh@gmail.com
+</p>
+
 
 ## 🛠️ Tech Stack
 
